@@ -1,1 +1,3 @@
 # Cryptocurrencies
+
+In this project we are working to determine if there are any patterns that can be observed by analyzing cryptocurrency data. We have clustered the data and visualized it all, color coding by cluster class and then plotting out the relationship between Total number of Coins mined versus the supply of that given cryptocurrency. Through this, we hope to better determine how cryptocurrencies can be classified so when the determination is made as to which set of currencies to invest in, our work here in clustering the crypto data makes for a good basis on how to tackle that decision.
